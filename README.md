@@ -6,9 +6,23 @@
   <img src="https://img.shields.io/badge/Business-Intelligence-0078D4?style=for-the-badge" alt="Business Intelligence" />
 </div>
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Why This Project?](#why-this-project)
+- [Dashboard Highlights](#dashboard-highlights)
+  - [Key Metrics](#key-metrics)
+  - [Business Insights](#business-insights)
+- [What the Dashboard Helps You Analyze](#what-the-dashboard-helps-you-analyze)
+- [Tools & Technologies](#tools--technologies)
+- [Objective](#objective)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Project Impact](#project-impact)
+- [Tags](#tags)
+
 ## Overview
 
-This project showcases an interactive Super Store Sales & Profit Dashboard built in Microsoft Power BI. The dashboard is designed to help business stakeholders understand sales trends, identify profitable product categories, evaluate regional performance, and uncover opportunities to improve revenue and profitability.
+This project showcases an interactive Super Store Sales & Profit Dashboard built in Microsoft Power BI. The dashboard is designed to help business stakeholders understand sales trends, identify profit opportunities, and make informed decisions using visually rich, easy-to-read insights.
 
 The dataset is analyzed across multiple dimensions such as city, category, segment, quarter, and product, making it easier to turn raw data into actionable business insights.
 
@@ -68,7 +82,7 @@ This dashboard answers those questions visually through clean charts, KPI cards,
 
 ## Objective
 
-The main objective of this project is to transform raw retail data into a meaningful and visually engaging dashboard that helps identify business performance trends, highlight profitable opportunities, and support smarter decision-making through interactive analytics.
+The main objective of this project is to transform raw retail data into a meaningful and visually engaging dashboard that helps identify business performance trends, highlight profitable opportunities, and support strategic planning through data-driven insights.
 
 ## Skills Demonstrated
 
