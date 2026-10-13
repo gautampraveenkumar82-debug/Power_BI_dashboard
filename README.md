@@ -92,6 +92,3 @@ The main objective of this project is to transform raw retail data into a meanin
 
 This dashboard provides a practical example of how business intelligence tools can convert large datasets into clear, visual stories that are easy for decision-makers to understand and act on.
 
-## Tags
-
-#PowerBI #DataAnalytics #Dashboard #BusinessIntelligence #DataVisualization #MicrosoftPowerBI #RetailAnalytics
